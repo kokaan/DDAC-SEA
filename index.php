@@ -9,7 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
         <script>
-window.location.href = "https://kok-test-tm.trafficmanager.net";
+window.location.href = "http://kok-ddac-sea-wa.azurewebsites.net";
 </script>
     </head>
     <body>
