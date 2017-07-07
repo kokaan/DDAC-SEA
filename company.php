@@ -5,7 +5,10 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <?php
-
+/*
+    The following source code to pass data through jQuery without refreshing the page is obtained from (Agarwal, n.d.)
+    The reference is provided in the documentation.
+*/
 include 'companyProcess.php';
 $companyProcess=new companyProcess();
 
