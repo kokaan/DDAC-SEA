@@ -9,7 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
         <script>
-window.location.href = "company.php";
+window.location.href = "https://kok-test-tm.trafficmanager.net";
 </script>
     </head>
     <body>
