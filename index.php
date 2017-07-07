@@ -9,12 +9,12 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
         <script>
-window.location.href = "https://www.w3schools.com";
+//window.location.href = "https://www.w3schools.com";
 </script>
     </head>
     <body>
         <?php
-            //header("Location:company.php");
+            header("Location:company.php");
         ?>
     </body>
 </html>
