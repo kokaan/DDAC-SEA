@@ -9,7 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
         <script>
-            window.location.href="http://kok-ddac-wa-sea.azurewebsites.net";
+            window.location.href="https://www.google.com";
         </script>
     </head>
     <body>
