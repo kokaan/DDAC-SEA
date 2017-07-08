@@ -14,7 +14,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            header("Location:company.php");
+            //header("Location:company.php");
         ?>
     </body>
 </html>
